@@ -120,7 +120,7 @@ The following environment variables can be used to configure the tool:
 - Never analyze malware on production systems or networks
 - Always ensure your Cuckoo sandbox is properly isolated
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Cuckoo Sandbox](https://cuckoosandbox.org/)
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
